@@ -1,0 +1,17 @@
+Sample Predictions
+
+Actual Label: 1
+Predicted Values: [1.8834177e-04 9.9967301e-01 1.3865469e-04]
+
+Actual Label: 2
+Predicted Values: [6.854808e-05 3.630450e-04 9.995684e-01]
+
+Actual Label: 1
+Predicted Values: [1.9045910e-04 9.9967134e-01 1.3824172e-04]
+
+Actual Label: 0
+Predicted Values: [9.9944288e-01 4.6682396e-04 9.0338908e-05]
+
+Actual Label: 0
+Predicted Values: [9.9945372e-01 4.5832482e-04 8.7959386e-05]
+
